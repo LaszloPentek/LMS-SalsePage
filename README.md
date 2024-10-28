@@ -1,3 +1,3 @@
 # LMS Sales Page
 
-Egy szoftverfejlesztőknek igényeire szabott Learning Management Platform értéjesitő oldala.
+Egy szoftverfejlesztőknek igényeire szabott Learning Management Platform értékesítő oldala.
